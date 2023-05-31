@@ -1,18 +1,9 @@
-### Hi there 👋
+<div align="left">
+Hi there ~ 👋
+<!-- 
+### Tech Stack
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=spring&logoColor=#6DB33F"/></a>
 
-<!--
-**JoeGukseon/JoeGukseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=spring&logoColor=#6DB33F"/></a>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeGukseon&show_icons=true&theme=radical) -->
+</div>
